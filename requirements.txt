@@ -1,5 +1,5 @@
 webdriver-manager==2.3.0
 beautifulsoup4==4.8.2
 selenium==3.141.0
-urllib3==1.26.5
+urllib3==1.26.18
 chromedriver-binary==81.0.4044.69.0
